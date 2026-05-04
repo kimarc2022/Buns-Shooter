@@ -1,0 +1,3 @@
+/home/mjr/fps_game/build/CMakeFiles/battle_royale.dir
+/home/mjr/fps_game/build/CMakeFiles/edit_cache.dir
+/home/mjr/fps_game/build/CMakeFiles/rebuild_cache.dir

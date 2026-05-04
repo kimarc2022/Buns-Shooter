@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/main.cpp.o -c /home/mjr/fps_game/src/main.cpp",
+  "file": "/home/mjr/fps_game/src/main.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Game.cpp.o -c /home/mjr/fps_game/src/Game.cpp",
+  "file": "/home/mjr/fps_game/src/Game.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Shader.cpp.o -c /home/mjr/fps_game/src/Shader.cpp",
+  "file": "/home/mjr/fps_game/src/Shader.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Camera.cpp.o -c /home/mjr/fps_game/src/Camera.cpp",
+  "file": "/home/mjr/fps_game/src/Camera.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Player.cpp.o -c /home/mjr/fps_game/src/Player.cpp",
+  "file": "/home/mjr/fps_game/src/Player.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/World.cpp.o -c /home/mjr/fps_game/src/World.cpp",
+  "file": "/home/mjr/fps_game/src/World.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/UI.cpp.o -c /home/mjr/fps_game/src/UI.cpp",
+  "file": "/home/mjr/fps_game/src/UI.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Font.cpp.o -c /home/mjr/fps_game/src/Font.cpp",
+  "file": "/home/mjr/fps_game/src/Font.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Effects.cpp.o -c /home/mjr/fps_game/src/Effects.cpp",
+  "file": "/home/mjr/fps_game/src/Effects.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/BotManager.cpp.o -c /home/mjr/fps_game/src/BotManager.cpp",
+  "file": "/home/mjr/fps_game/src/BotManager.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/DropManager.cpp.o -c /home/mjr/fps_game/src/DropManager.cpp",
+  "file": "/home/mjr/fps_game/src/DropManager.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Pickup.cpp.o -c /home/mjr/fps_game/src/Pickup.cpp",
+  "file": "/home/mjr/fps_game/src/Pickup.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Zone.cpp.o -c /home/mjr/fps_game/src/Zone.cpp",
+  "file": "/home/mjr/fps_game/src/Zone.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/Build.cpp.o -c /home/mjr/fps_game/src/Build.cpp",
+  "file": "/home/mjr/fps_game/src/Build.cpp"
+},
+{
+  "directory": "/home/mjr/fps_game/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DSHADER_DIR=\\\"/home/mjr/fps_game/shaders\\\" -I/home/mjr/fps_game/src -g -Wall -Wextra -Wno-unused-parameter -std=gnu++17 -o CMakeFiles/battle_royale.dir/src/SaveData.cpp.o -c /home/mjr/fps_game/src/SaveData.cpp",
+  "file": "/home/mjr/fps_game/src/SaveData.cpp"
+}
+]
